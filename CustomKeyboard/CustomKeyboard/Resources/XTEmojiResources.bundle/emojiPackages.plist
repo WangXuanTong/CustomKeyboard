@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionName</key>
+		<string>最近</string>
+		<key>sectionImageName</key>
+		<string>recent</string>
+	</dict>
+	<dict>
+		<key>sectionName</key>
+		<string>洋葱头</string>
+		<key>sectionImageName</key>
+		<string>yct</string>
+		<key>sectionDirectory</key>
+		<string>yctface</string>
+	</dict>
+	<dict>
+		<key>sectionName</key>
+		<string>威威</string>
+		<key>sectionImageName</key>
+		<string>lion</string>
+		<key>sectionDirectory</key>
+		<string>lionface</string>
+	</dict>
+</array>
+</plist>
